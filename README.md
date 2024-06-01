@@ -1,6 +1,4 @@
-# Accident Detection System
-
-**Last Updated: *7 June 2022***
+# ForeSight-Accident Detection System 
 
 1. Demonstration
 2. What is Accident Detection System?
@@ -23,11 +21,7 @@ An accident Detection System is designed to detect accidents via video or CCTV f
 - To contribute to this project, knowledge of basic python scripting, Machine Learning, and Deep Learning will help.
 
 ## 4. Getting Started - How to use it?
-
-### Clone this repository
-
-`https://github.com/krishrustagi/Accident-Detection-System.git`
-
+`
 To install all the packages required to run this python program
 `pip install -r requirements.txt`
 
